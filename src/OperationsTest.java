@@ -22,7 +22,7 @@ public class OperationsTest
 		number%=2;
 		System.out.println(number);
 		
-		
+		number=20;
 	}
 
 }
